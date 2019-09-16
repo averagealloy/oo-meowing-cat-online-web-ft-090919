@@ -2,7 +2,7 @@
 class Cat
   attr_accessor :name
   def meow
-    p
+    puts me
 
   end
 end
