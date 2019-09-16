@@ -1,3 +1,4 @@
 ## code your solution here
 class Cat
-  attr_reader :
+  attr_reader : name
+  
